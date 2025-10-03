@@ -1,0 +1,35 @@
+# Python virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Byte-compiled / cached
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Unit test / coverage reports
+.coverage
+*.cover
+htmlcov/
+.pytest_cache/
+
+# IDE/editor stuff
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Jupyter notebooks
+.ipynb_checkpoints/
